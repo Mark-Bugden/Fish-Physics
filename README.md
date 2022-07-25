@@ -1,4 +1,4 @@
-# Fish-Physics-1024-Sunbleak
+# Fish-Physics
 The data and files for my PINN project analysing fish behaviour
 
 
