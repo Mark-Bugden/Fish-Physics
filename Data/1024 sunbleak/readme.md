@@ -1,8 +1,8 @@
-## Source and licensing of data
+## Source and licensing of the data
 [Source](https://dx.doi.org/10.17617/3.4y) and [license](https://creativecommons.org/licenses/by/4.0/) of data, which is part of the source material for the [paper](https://doi.org/10.7554/eLife.64000).
 
 ## Context for the data
-[TRex](https://trex.run/docs/) is a tracking software designed to track and identify individuals and other moving entities using computer vision and machine learning. The data consists of tracking data from approximately 1024 fish (Sunbleak) in a 3m tank. 
+[TRex](https://trex.run/docs/) is a tracking software designed to track and identify individuals and other moving entities using computer vision and machine learning. The data consists of tracking data from TRex of approximately 1024 fish (Sunbleak) in a 3m tank. 
 
 ## Description of the data
 The subfolders in the *1024 sunbleak* folder contain the tracking observations for subsets of fish. Although there were approximately 1024 fish in the experiment, there are more than 1024 fish observations since occasionally the tracking ID of a fish was lost. 
