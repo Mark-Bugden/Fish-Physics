@@ -1,7 +1,7 @@
 # Summary
 This file collates and cleans the data contained in the *1024 sunbleak* subfolder of the *Data* folder. It also does some minor data exploration.
 
-Note: The file produces and saves a .csv file of the cleaned and collated data, but since the filesize is approximately 800mb I can't upload it to GitHub. 
+Note: The file produces and saves a .csv file of the cleaned and collated data, but since the filesize is approximately 1000mb I can't upload it to GitHub. 
 
 ### Collating
 In the original dataset, each fish is given an individual .npz file with the tracking data associated to that fish, including x position, y position, frame number, and time. This ipython file collates those individual files into a single Pandas DataFrame, df. The columns of this dataframe are ["Fish", 't', 'x','y', 'frame'] corresponding to the fish number, the time, the x position, the y position, and the frame respectively. 
