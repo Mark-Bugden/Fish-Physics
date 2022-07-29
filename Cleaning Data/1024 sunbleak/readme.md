@@ -1,5 +1,5 @@
 # Summary
-This file collates and cleans the data contained in the *1024 sunbleak* subfolder of the *Data* folder. It also does some minor data exploration.
+This file collates and cleans the data contained in the *1024 sunbleak* subfolder of the *Data* folder. It also does some minor data exploration. Although the files are separated into subfolders on GitHub (for logistical reasons), they should be put in a single folder if you want to run this worksheet with minimal changes. 
 
 Note: The file produces and saves a .csv file of the cleaned and collated data, but since the filesize is approximately 1000mb I can't upload it to GitHub. 
 
