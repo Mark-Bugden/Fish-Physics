@@ -16,7 +16,7 @@ The instantaneous velcoties of the fish are obtained by taking the difference of
 The file plots example fish trajectories, fish positions at given frame, and heatmaps for the fish positions at a given frame and averaged over the whole dataset. It also looks at the distribution of speeds and positions. Two interesting observations arose: 
   * Averaged over the whole timeframe, the fish tend to congregate at the edges of the tank
   * There are some minor stitching artifacts from when the four videos were stitched together to create one video
-  * Excluding speeds of zero results in a very smooth distribution. The speeds exactly equal to zero are likely created by the method of imputing missing position values, and should disappear when the more sophisticated method of imputing those values is implemented. 
+  * After imputing the missing data with linear interpolation rather than feed forward, we notice that the huge spike of zero speed fish disappears and the distribution of speeds is much smoother. 
 
 
 
