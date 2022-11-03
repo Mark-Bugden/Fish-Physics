@@ -11,7 +11,7 @@ How to setup the environment:
 	pip install pandas
 	pip install seaborn
 	pip install matplotlib
-	pip install imagio
+	pip install scipy
 
 
 Once you have the environment set up, you can run Jupyter Lab in that environment. 
